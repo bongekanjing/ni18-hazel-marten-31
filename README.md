@@ -1,8 +1,8 @@
 # The Daily World — 18 November 2026
 
-![competition](https://img.shields.io/badge/make.fun-news--image--20261118-1f6feb)
-![entry](https://img.shields.io/badge/entry-bongekanjing%2Fni18--hazel--marten--31-2ea043)
-![license](https://img.shields.io/badge/license-MIT-8957e5)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/bongekanjing/ni18-hazel-marten-31/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/bongekanjing/ni18-hazel-marten-31/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 A single front page that sums up Wednesday 18 November 2026: 18 headlines
 (3 illustrated leads and 15 briefs across seven regions), a six-figure number
@@ -38,6 +38,8 @@ Board of Peace's verdict on the Gaza ceasefire, and the Federal Reserve's
 October minutes. Every figure on the page was taken from a report published on
 18 November; where a source gave a move without a closing level, the page shows
 only the move rather than inventing a number.
+
+Bounty page: [make.fun/bounty/news-image-20261118](https://make.fun/bounty/news-image-20261118)
 
 ## License
 
